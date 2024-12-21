@@ -1,0 +1,41 @@
+/* Global Styling */
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+  background-color: #ffffff;
+  color: #333333;
+}
+
+.App {
+  text-align: center;
+}
+
+/* Header Styles */
+.header {
+  background-color: #282c34;
+  color: white;
+  padding: 20px;
+  text-align: center;
+}
+
+/* Main Content Styles */
+.main-content {
+  padding: 20px;
+  text-align: center;
+}
+
+.main-content h2 {
+  color: #282c34;
+}
+
+.main-content p {
+  color: #555;
+}
+
+/* Footer Styles */
+.footer {
+  background-color: #f1f1f1;
+  color: #333;
+  padding: 10px;
+  text-align: center;
+}
